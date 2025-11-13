@@ -21,11 +21,16 @@
 }
 
 .header__username {
-  margin-right: 12px;
+  margin-right: 20px;
   font-family: Cabinet Grotesk, sans-serif;
   font-weight: 700;
 }
 
 .header__place {
   margin: 20px;
+}
+
+.header__dateTime {
+  margin: 0;
+  padding: 0;
 }

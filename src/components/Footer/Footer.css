@@ -6,4 +6,5 @@
   padding: 0;
   font-size: 16px;
   color: rgba(0, 0, 0, 1);
+  justify-content: space-between;
 }
