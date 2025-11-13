@@ -43,10 +43,15 @@
   position: absolute;
   top: 24px;
   right: 24px;
+  background-image: url(../../assets/Group199.svg);
+  background-repeat: no-repeat;
 }
 
 .modal__footer {
   background-color: #fff;
+  margin-left: 32px;
+  margin-bottom: 32px;
+  margin-top: 20px;
 }
 
 .modal__text {
